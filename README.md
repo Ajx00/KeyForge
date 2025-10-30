@@ -18,7 +18,6 @@
 - **USB Portability**: Runs from a USB stick, storing encrypted, hidden files (e.g., `.passwords.json`, `.notes.json`) alongside the executable.
 - **and many more!**
 
-*For a full list of features check the dedicated [Wiki](https://github.com/SimpliAj/KeyForge/wiki/%E2%9C%A8-Features) page.*
 
 ---
 
@@ -90,11 +89,9 @@ We welcome contributions! To get involved:
 2. Submit pull requests with bug fixes or new features.
 3. Report issues or suggest improvements via Issues.
 
-## 📖 Learn More
-Dive deeper into KeyForge with our [Wiki](https://github.com/SimpliAj/KeyForge/wiki/)
 
 ## 📜 License
-KeyForge is released under the [MIT License](https://github.com/SimpliAj/KeyForge/tree/main?tab=MIT-1-ov-file). Feel free to use, modify, and distribute it as you see fit!
+KeyForge is released under the [MIT License](). Feel free to use, modify, and distribute it as you see fit!
 <p align="center">
  <br>
   <a href="https://info.flagcounter.com/SMx0"><img src="https://s01.flagcounter.com/mini/SMx0/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>

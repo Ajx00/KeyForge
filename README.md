@@ -1,10 +1,13 @@
+
+<p align="center">
+  <a href="https://tcno.co/">
+    <img src="https://i.imgur.com/0H1wH57.png"></a>
+</p>
+
 # KeyForge
 
 **KeyForge** is a secure, portable password manager built with Python and Tkinter. Protect your credentials and notes with robust encryption, generate strong passwords, and manage everything from a USB stick—across macOS, Windows, and Linux. Featuring a dynamic UI and tamper-proof design, KeyForge keeps your data safe and accessible wherever you go.
 
-<p align="center">
-  <img src="https://i.imgur.com/rWUAMW3.png" alt="KeyForge Logo" width="250"/>
-</p>
 
 ---
 
